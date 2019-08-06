@@ -55,7 +55,7 @@
     2 3 4 5 
     1 2 3 4 5 
 
-The aim of this printing pattern is to get your  mindset into a logical and problem sloving mode.
+The aim of this printing exercise is to get your  mindset into a logical and problem sloving mode.
 
 For Python help you can use to - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
