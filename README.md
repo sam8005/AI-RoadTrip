@@ -69,7 +69,7 @@ For Python help you can refer to - [Automate the Boring Stuff with Python](https
 - [Working with CSV Files and JSON Data](https://automatetheboringstuff.com/chapter14/)
 - [ Installing Third-Party Modules](https://automatetheboringstuff.com/appendixa/)
 
-After completing Task3 small implimentation tasks will be given based on the above topic which will be updated in this page soon.
+After completing Task3 small implimentation tasks will be given based on the above topics which will be updated in this page soon.
 
 
 # Wish you all the best and Lets do this together.
