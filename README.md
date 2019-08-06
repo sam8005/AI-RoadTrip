@@ -57,9 +57,9 @@
 
 The aim of this printing exercise is to get your  mindset into a logical and problem sloving mode.
 
-For Python help you can use to - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+For Python help you can refer to - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-###Task3:
+### Task3:
     
     Refer to the below given documents and get familiar with the concepts.
 
