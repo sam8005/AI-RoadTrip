@@ -8,7 +8,7 @@
     Getting in touch with python.
     we shall start with a few pattern printing problems for now, just to get a feel for python.
 
-    1st: For the user input n = 5 print the pattern.
+  1st: For the user input n = 5 print the pattern.
 
     #
     ##
@@ -16,14 +16,14 @@
     ####
     #####
     
-    2nd:For the user input n = 4 print the pattern.
+  2nd:For the user input n = 4 print the pattern.
 
        #
       # #
      # # #
     # # # #
 
-   3rd: For the user input n = 4 print the pattern.
+  3rd: For the user input n = 4 print the pattern.
 
        1
       121
