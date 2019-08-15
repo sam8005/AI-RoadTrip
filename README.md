@@ -83,7 +83,8 @@ After completing Task3 small implimentation tasks will be given based on the abo
   - bs4
   - pillow
 
-  2)Write a python progrm to take an input from the user and automatically open a browser with all the top 10 search results for the given input in new tabs ie for eg: If i type in Virat Kohli the program should open the 1st 10 search results in new tabs.
+  2)Write a python program to take an input from the user and automatically open a browser with all the top 10 search results for the given input in new tabs ie for eg: If I type in Virat Kohli the program should open the 1st 10 search results in new tabs.Also store the URL's for the top 10 reults in a .txt file using the same program.
+  challenge: 1st store the URLs in an a .txt file and from that file open the search results in new tabs.
 
   3)In this repo there is a folder called python_Tasks in this the solutions for the pattern problems are given but the answer for the 4th pattern is missing open an issue telling that the code is missing and then write the answer for that and send a pull request so that I can update this repo. To complete this task u will need a good understanding of how git and github works and how to collaborate using github.
 
